@@ -57,7 +57,9 @@ A calculator built with Python and Tkinter featuring:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0prj0&show_icons=true)
 
+<!---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0prj0&layout=compact)
+--->
 
 ---
 

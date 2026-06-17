@@ -45,10 +45,9 @@ A calculator built with Python and Tkinter featuring:
 
 ### Tools & Technologies
 - Git & GitHub
-- Tkinter
-- Pygame
 - Visual Studio
 - VS Code
+- Power BI
 - Unity (Learning)
 
 ---
